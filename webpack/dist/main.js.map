@@ -1,0 +1,1 @@
+{"version":3,"file":"main.js","mappings":";;;;;AAAA,4D","sources":["webpack://myportfoilio/./src/index.js"],"sourcesContent":["document.getElementById('root').innerHTML='<h1>Loaded</h1>';"],"names":[],"sourceRoot":""}
